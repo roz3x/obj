@@ -1,5 +1,5 @@
 # obj
-wavefront file handler ( pure go )
+ 
 
 
 supported tages ( -o , -f , -v , -vt , -vn )

@@ -2,7 +2,7 @@
 
 # obj
  
- A minimal utility that parses .obj file . .obj file is used for storing static 3d objects and is very easily implintable . more information regarding obj file can be found on [wikipidea page](https://en.wikipedia.org/wiki/Wavefront_.obj_file) . 
+ A minimal utility that parses .obj file . .obj file is used for storing static 3d objects and is very easily implimentable . more information regarding obj file can be found on [wikipidea page](https://en.wikipedia.org/wiki/Wavefront_.obj_file) . 
  
  ## tags supported 
 

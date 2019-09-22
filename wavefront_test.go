@@ -5,7 +5,9 @@ import (
 	"testing"
 )
 
-func testInit(t *testing.T) {
+
+//function now exposed 
+func TestInit(t *testing.T) {
 	f, err := os.Open("sample.obj")
 	if err != nil {
 		t.Errorf("%v\n", err)

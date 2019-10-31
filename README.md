@@ -14,7 +14,4 @@
   -vt | for vertex texture 
   -f | for faces 
 
-## development scope 
-
- - [ ] linking with motion data such as bvh file 
- - [ ] linking with gltf or similer data formats
+ 

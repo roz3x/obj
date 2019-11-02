@@ -1,0 +1,9 @@
+func magic  
+	for in  wfd 
+		cur_len = len(wft)
+		for in wts 
+			wft = append(wft ,sum of whole things)	
+		for in wts.Faces 
+			wft.Faces = append(wft.Faces , sum of whole thing + cur_len)
+
+exit 
